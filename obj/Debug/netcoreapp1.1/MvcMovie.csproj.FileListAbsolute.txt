@@ -1,0 +1,8 @@
+/home/johnny/programming/dotnet/MvcMovie/bin/Debug/netcoreapp1.1/MvcMovie.deps.json
+/home/johnny/programming/dotnet/MvcMovie/bin/Debug/netcoreapp1.1/MvcMovie.runtimeconfig.json
+/home/johnny/programming/dotnet/MvcMovie/bin/Debug/netcoreapp1.1/MvcMovie.runtimeconfig.dev.json
+/home/johnny/programming/dotnet/MvcMovie/bin/Debug/netcoreapp1.1/MvcMovie.dll
+/home/johnny/programming/dotnet/MvcMovie/bin/Debug/netcoreapp1.1/MvcMovie.pdb
+/home/johnny/programming/dotnet/MvcMovie/obj/Debug/netcoreapp1.1/MvcMovie.AssemblyInfo.cs
+/home/johnny/programming/dotnet/MvcMovie/obj/Debug/netcoreapp1.1/MvcMovie.dll
+/home/johnny/programming/dotnet/MvcMovie/obj/Debug/netcoreapp1.1/MvcMovie.pdb
